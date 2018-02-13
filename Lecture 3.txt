@@ -1,0 +1,29 @@
+Analogy - comparison between one domain and another
+	Mapping of multi-place (relation between objects) predicates (Property)
+	Prefer to map relations rather than properties
+	Comparison of atom and solar system some properties mapped others are not (e.g. properties of specific planets)
+	Orbit around the nucleus, orbit around the sun
+	Don't think about one of the electrons having people
+The back button is a stack but usually not thought of in this way. Doesn't map well with our mental model.
+This can cause users to become lost
+
+Mental models as problem spaces
+
+When you are thinking through a problem you are searching a problem space
+Problem solving can therefore be thought of as search. You have a list of possible states that you look through (search)
+to solve the problem. Apply operators to the start state to achieve the goal state
+You can map out a diagram of all possible states (for a small problem) this is known as a problem space
+problem space - diagram/list of all possible states
+
+RPN calculator study 
+One group shown stack diagram and how it works
+Other given a verbal explanation of how to translate algebra to RPN
+The group given the diagram had a better problem space model of the states that the calculator was in
+This allowed the group to solve creative problems quicker
+Routine tasks had no differences
+
+Mental models can be thought of as homomorphisms (Shares structure of the world it represents)
+Distinction between arbitary representations and non-arbitary structure sharing representations very important
+e.g. writing about a room and the number of people in it (Arbitary) compared to drawing a diagram of the room (Non-arbitary, shares the structure of the world)
+representations can do the logic for you
+Height comparison (diagram and writing)
